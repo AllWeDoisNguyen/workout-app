@@ -1,0 +1,24 @@
+.homepage__header {
+    justify-content: center;
+    background: linear-gradient( rgb(84, 160, 255), rgb(46, 134, 222));
+    display: flex;
+    align-items: center;
+    min-height: 80px;
+    padding: 16px 60px 16px 30px;
+    color: #fff;
+    font-weight: 900;
+    font-size: 26px;
+}
+
+.homepage__btn-menu {
+    border-radius: 30px;
+    height: 80vh!important;
+    margin: 25px auto !important;
+    flex-direction: column;
+    width: 90%;
+    padding: 20px 10px;
+    height: 300px;
+    justify-content: space-between;
+    // border: 1px solid;
+    box-shadow: 0 0 7px #e8e8e8;
+}
